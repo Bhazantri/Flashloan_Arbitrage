@@ -26,7 +26,7 @@ Install ganache-cli:
  npm install -g ganache-cli
 Clone the repo:
 
-git clone https://github.com/kaymen99/aave-flashloan-arbitrage.git
+
 cd aave-flashloan-arbitrage
 Set your environment variables:
 
